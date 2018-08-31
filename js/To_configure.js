@@ -1,0 +1,1 @@
+var ceshi = "http://report.offline.test.qingger.com:8188";
